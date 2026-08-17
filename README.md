@@ -54,14 +54,6 @@ I build and share practical frameworks, developer tooling, and engineering pract
 
 ---
 
-## 📊 GitHub Stats
-
-![Maulik's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulikbhojani&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maulikbhojani&layout=compact&hide_border=true&theme=default)
-
----
-
 ## 🤝 Connect
 
 - LinkedIn: [Maulik Bhojani](https://in.linkedin.com/in/maulikbhojani)
